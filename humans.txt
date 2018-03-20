@@ -6,7 +6,7 @@
 My team    <name> -- <role> -- <twitter>
 
 # THANKS
-
+Thanks
     <name>
 
 # TECHNOLOGY COLOPHON
